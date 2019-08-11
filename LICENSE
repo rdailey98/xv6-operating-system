@@ -1,12 +1,3 @@
-/*
- * Copyright (c) 2017 Thomas Anderson, Matthew Rockett and Danyang Zhuo.
- * All rights reserved. Permission is hereby granted to students registered
- * for University of Washington CSE 451 for use solely during Autumn
- * Quarter 2017 for purposes of the course. No other use, copying, distribution,
- * or modification is permitted without prior written consent. Copyrights
- * for third-party components of this work must be honored.
-*/
-
 A portion of this material is derived from xv6.  That material is governed
 by the following notice:
 
