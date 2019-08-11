@@ -25,9 +25,3 @@ QEMU requires libsdl. This should not be a problem with Mac users. For 64-bit Li
 For Ubuntu, you can do the followings:
 
 sudo apt-get install libsdl2-dev
-
-## Source Control
-We use Git for source control. For more information about how to use Git, please consult [Git user's manual](http://www.kernel.org/pub/software/scm/git/docs/user-manual.html).
-
-## Debugging
-We use GDB as a remote debugger for xk in QEMU. To attach GDB to xk, you need to open two separate terminals. Both should be in the xk root directory. In one terminal, type "make qemu-gdb". This starts the qemu process and wait for GDB to attach. In another terminal, type "make gdb". Now the GDB process is attached to qemu.
